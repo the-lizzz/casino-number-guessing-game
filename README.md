@@ -6,3 +6,4 @@ make casino
 chmod +x casino
 ./casino
 ```
+P.S:there is a shortcut to gain more money (; 
